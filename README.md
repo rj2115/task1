@@ -1,2 +1,2 @@
 # task1
-Survey for made for a companie's employee
+Survey for made for a company's employee
